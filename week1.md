@@ -1,1 +1,1 @@
-[Contribution guidelines for this project](docs/CONTRIBUTING.class.md)
+[Contribution guidelines for this project](https://www.youtube.com/)
